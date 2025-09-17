@@ -1,6 +1,6 @@
 # Summary
 
-[0. Introduction](./index.md)
+[0. Introduction](./start.md)
 [7. Week 7](./chapters/week7_intro.md)
  - [Theory](./chapters/week7/theory.md)
  - [Lab K](./chapters/week7/lab_k.md)
