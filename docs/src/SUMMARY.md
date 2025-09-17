@@ -7,6 +7,4 @@
 
 
 ----
-[The University of Manchester](https://www.manchester.ac.uk/)
-[Canvas](https://canvas.manchester.ac.uk/)
-[Copyright information](./copyright.md)
+The 

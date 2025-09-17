@@ -1,9 +1,9 @@
 [book]
-authors = ["Alex Casso"]
+authors = ["Alex Casson"]
 language = "en"
 multilingual = false
 src = "src"
-title = "EEEN11202 Programming: Notes Part 2"
+title = "EEEN11202 Programming: Notes Part 3"
 
 [output.html]
 theme = "theme"
@@ -13,11 +13,11 @@ smart-punctuation = true
 mathjax-support = false
 copy-fonts = true
 no-section-label = false
-git-repository-url = "https://github.com/UOM-EEE-EEEN11202/notes-part2"
+git-repository-url = "https://github.com/UOM-EEE-EEEN11202/notes-part3"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/UOM-EEE-EEEN11202/notes-part2/edit/master/guide/{path}"
+edit-url-template = "https://github.com/UOM-EEE-EEEN11202/notes-part3/edit/master/guide/{path}"
 site-url = "/"
-cname = "https://uom-eee-eeen11202.github.io/notes-part2/"
+cname = "https://uom-eee-eeen11202.github.io/notes-part3/"
 input-404 = "not-found.md"
 
 [output.html.print]
@@ -48,4 +48,4 @@ heading-split-level = 3  # link results to heading levels
 copy-js = true
 
 [rust]
-edition = "2021"
+edition = "2024"
