@@ -5,7 +5,7 @@ src = "src"
 title = "EEEN11202 Programming: Notes Part 3"
 
 [output.html]
-theme = "uom_mdbook_theme"
+theme = "theme"
 default-theme = "light"
 preferred-dark-theme = "dark"
 smart-punctuation = true
