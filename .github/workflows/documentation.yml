@@ -13,7 +13,7 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
-           mdbook-version: 'latest'
+           mdbook-version: 'v0.5.0-alpha.1'
       - run: mdbook build docs
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
