@@ -47,3 +47,7 @@ copy-js = true
 
 [rust]
 edition = "2024"
+
+[preprocessor.quiz]
+fullscreen = false
+show-bug-reporter = true
