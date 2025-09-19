@@ -13,7 +13,7 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
-           mdbook-version: '0.4'
+           mdbook-version: '0.4.52'
       - run: cargo install mdbook-quiz --locked --version==0.4
       - run: mdbook build docs
       - name: Deploy to GitHub Pages
